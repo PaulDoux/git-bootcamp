@@ -3,3 +3,5 @@ manger
 boire
 dodo voyager
 danser
+
+rigoler 
